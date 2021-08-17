@@ -9,5 +9,7 @@ public class GitTest {
         System.out.println("哈哈哈444");
 
         System.out.println("hot-fix");
+
+        System.out.println("master冲突");
     }
 }
